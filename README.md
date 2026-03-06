@@ -21,3 +21,6 @@ Select your audio device to capture from. The desktop audio device will be have 
 `Username`: Your Icecast admin / MediaMTX username  
 `Password`: Your Icecast source / MediaMTX password  
 `Stream Name:` Your stream name. It'll use as Icecast mouth point name, and RTMP mediamtx Stream name. The final Icecast url will be `icecast://source:password@ip:port/StreamName` and RTMP will be `rtmp://ip:port/StreamName?user=username&pass=password` This was made for setup that have the same username/password on both Icecast and MediaMTX  
+
+# Download
+[Here](https://github.com/charonfaustinus/Audio-Streamer/releases/tag/Release)
