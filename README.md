@@ -3,6 +3,8 @@ GUI app for streaming audio to RTMP (audio only) and Icecast with metadata. This
 
 Might work on linux and mac, I didn't have devices to test it.  
 
+<img width="549" height="832" alt="Screenshot 2026-03-06 205803" src="https://github.com/user-attachments/assets/8be48793-16c7-47e9-a38c-c63120c59dcb" />
+
 
 Requirements
 ```
