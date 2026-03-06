@@ -16,8 +16,8 @@ and [FFmpeg](https://ffmpeg.org/download.html) in your system path or within the
 
 # How to use
 Select your audio device to capture from. The desktop audio device will be have `[loopback]` at the end  
-`RTMP Server`: Only put your ip and port in, example `rtmp://localhost.com:1936`. if nothing has been put in, it will disabled the streaming for RTMP.  
-`Icecast Server`: Only put your ip and port in, example `localhost.com:8000`.  
+`RTMP Server`: Only put your ip and port in, example `rtmp://localhost.com:1936`. if nothing has been put in, it will disabled the streaming for RTMP automatically.  
+`Icecast Server`: Only put your ip and port in, example `localhost.com:8000`. if nothing has been put in, it will disabled the streaming for Icecast automatically.  
 `Username`: Your Icecast admin / MediaMTX username  
 `Password`: Your Icecast source / MediaMTX password  
 `Stream Name:` Your stream name. It'll use as Icecast mouth point name, and RTMP mediamtx Stream name. The final Icecast url will be `icecast://source:password@ip:port/StreamName` and RTMP will be `rtmp://ip:port/StreamName?user=username&pass=password` This was made for setup that have the same username/password on both Icecast and MediaMTX  
