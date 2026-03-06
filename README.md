@@ -1,7 +1,7 @@
 # Audio-Streamer
 GUI app for streaming audio to RTMP (audio only) and Icecast with metadata. This was made for [MediaMTX](https://github.com/bluenviron/mediamtx) and [Icecast](https://icecast.org/) combo setup, Assume that you have server set to the same password.  
 
-Might work on linux and mac, I didn't have devices to test it.  
+Might work on linux and mac, I didn't have devices to test it. This was made to be super light and barebone. If you want more advance option and "Video support" please use [OBS](https://github.com/obsproject/obs-studio/)
 
 <img width="549" height="832" alt="Screenshot 2026-03-06 205803" src="https://github.com/user-attachments/assets/8be48793-16c7-47e9-a38c-c63120c59dcb" />
 
